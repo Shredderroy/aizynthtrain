@@ -1,3 +1,5 @@
+This repository has been replaced by [AiZynthModels](https://github.com/MolecularAI/aizynthmodels). Among other things, AiZynthModels includes all data processing and model training pipelines as well as a collection of models.
+
 # aizynthtrain
 
 aizynthtrain is a collection of routines, configurations and pipelines for training synthesis prediction models for the AiZynthFinder software.
